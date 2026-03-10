@@ -1,4 +1,4 @@
-# House Price Prediction
+# House Price Prediction using Machine Learning
 
 This project builds a Machine Learning model to predict house prices using the California Housing dataset.
 
@@ -6,7 +6,8 @@ This project builds a Machine Learning model to predict house prices using the C
 Python  
 NumPy  
 Pandas  
-Scikit-Learn  
+Scikit-Learn
+Machine Learning
 
 ## Machine Learning Workflow
 1. Data preprocessing using Pipeline and ColumnTransformer
